@@ -46,12 +46,19 @@
 </head>
 <body>
   <header>
-    <h1>Silicon Immersive VR</h1>
-    <p>Experience 8-minute immersive scenes from movies, and learn history & science through powerful virtual reality storytelling.</p>
-  </header>
+  <h2>Join the Waitlist</h2>
+<p>8-minute cinematic & educational VR scenes on your mobile VR headset.</p>
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLSdueSCRYDz8QDe7ayYe7VgMP-ETg64S8yPxop7KILXdfe7Xcg/viewform?embedded=true" 
+  width="640" 
+  height="813" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0" 
+  style="border: none; background: #fff; border-radius: 8px;">
+  Loading…
+</iframe>
 
-<section style="text-align: center; padding: 2rem;">
-  <h2 style="color: #0ff;">Join the Waitlist</h2>
   <p style="color: #ccc;">We’re building the future of entertainment + education. Let us know what excites you!</p>
   <iframe 
     src="https://docs.google.com/forms/d/e/1FAIpQLSdueSCRYDz8QDe7ayYe7VgMP-ETg64S8yPxop7KILXdfe7Xcg/viewform?embedded=true" 
