@@ -64,11 +64,19 @@
   </header>
 
   <section>
-    <h2>Coming Soon</h2>
-    <p>8-minute cinematic & educational VR scenes on your mobile VR headset.</p>
-    <div class="cta">
-      <input type="email" placeholder="Enter your email to join the waitlist" />
-      <button>Notify Me</button>
+  <h2>Join the Waitlist</h2>
+<p>8-minute cinematic & educational VR scenes on your mobile VR headset.</p>
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLSdueSCRYDz8QDe7ayYe7VgMP-ETg64S8yPxop7KILXdfe7Xcg/viewform?embedded=true" 
+  width="640" 
+  height="813" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0" 
+  style="border: none; background: #fff; border-radius: 8px;">
+  Loading…
+</iframe>
+
     </div>
   </section>
 
