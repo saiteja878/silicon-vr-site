@@ -50,11 +50,20 @@
     <p>Experience 8-minute immersive scenes from movies, and learn history & science through powerful virtual reality storytelling.</p>
   </header>
 
-  <section>
-    <h2>Join the Waitlist</h2>
-    <p>We’re building the future of entertainment + education. Let us know what excites you!</p>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdueSCRYDz8QDe7ayYe7VgMP-ETg64S8yPxop7KILXdfe7Xcg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-  </section>
+ <section style="text-align: center; padding: 2rem;">
+  <h2 style="color: #0ff;">Join the Waitlist</h2>
+  <p style="color: #ccc;">We’re building the future of entertainment + education. Let us know what excites you!</p>
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdueSCRYDz8QDe7ayYe7VgMP-ETg64S8yPxop7KILXdfe7Xcg/viewform?embedded=true" 
+    width="640" 
+    height="813" 
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0">
+    Loading…
+  </iframe>
+</section>
+
 
   <footer>
     &copy; 2025 Silicon Immersive VR. All rights reserved.
