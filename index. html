@@ -30,51 +30,30 @@
       padding: 2rem;
       text-align: center;
     }
-    .cta {
-      margin-top: 2rem;
-    }
-    .cta input[type="email"] {
-      padding: 0.8rem;
-      width: 300px;
-      border: none;
-      border-radius: 4px;
-      margin-right: 0.5rem;
-    }
-    .cta button {
-      padding: 0.8rem 1.5rem;
-      background: #0ff;
-      border: none;
-      border-radius: 4px;
-      color: #000;
-      font-weight: bold;
-      cursor: pointer;
-    }
     footer {
       background: #0d0d0d;
       padding: 1rem;
       text-align: center;
       color: #888;
     }
+    iframe {
+      width: 100%;
+      max-width: 640px;
+      height: 813px;
+      border: none;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>Silicon Immersive VR</h1>
-    <p>Step into the story. Experience cinema and education like never before.</p>
+    <p>Experience 8-minute immersive scenes from movies, and learn history & science through powerful virtual reality storytelling.</p>
   </header>
 
   <section>
-    <h2>Coming Soon</h2>
-    <p>8-minute cinematic & educational VR scenes on your mobile VR headset.</p>
-    <div class="cta">
-      <input type="email" placeholder="Enter your email to join the waitlist" />
-      <button>Notify Me</button>
-    </div>
-  </section>
-
-  <section>
-    <h2>Why Silicon VR?</h2>
-    <p>Transform the way you learn and feel stories. From history lessons to epic movie moments — live it all in VR.</p>
+    <h2>Join the Waitlist</h2>
+    <p>We’re building the future of entertainment + education. Let us know what excites you!</p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdueSCRYDz8QDe7ayYe7VgMP-ETg64S8yPxop7KILXdfe7Xcg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   </section>
 
   <footer>
